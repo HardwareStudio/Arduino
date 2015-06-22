@@ -17,7 +17,7 @@
 
 SoftwareSerial BT(10, 9);
 char val;
-const byte ledPin = 13;
+const byte ledPin = 8;
 
 // the setup function runs once when you press reset or power the board
 void setup() {
